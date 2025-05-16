@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|c:\\users\\varva\\desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\filterslab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\spiral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|solutionrelative:spiral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\idealreflector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|solutionrelative:idealreflector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\dilation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|solutionrelative:dilation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\gradient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|solutionrelative:gradient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|solutionrelative:filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\glassfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|solutionrelative:glassfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\sharax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|solutionrelative:sharax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\matrixfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|solutionrelative:matrixfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\opening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F48368-8683-46C2-80E2-43B3516BE663}|FiltersLab.csproj|solutionrelative:opening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdealReflector.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\IdealReflector.cs",
+              "RelativeDocumentMoniker": "IdealReflector.cs",
+              "ToolTip": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\IdealReflector.cs",
+              "RelativeToolTip": "IdealReflector.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:13:47.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Filters.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\Filters.cs",
+              "RelativeDocumentMoniker": "Filters.cs",
+              "ToolTip": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\Filters.cs",
+              "RelativeToolTip": "Filters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:57:46.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spiral.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\Spiral.cs",
+              "RelativeDocumentMoniker": "Spiral.cs",
+              "ToolTip": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\Spiral.cs",
+              "RelativeToolTip": "Spiral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:46:51.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SharaX.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\SharaX.cs",
+              "RelativeDocumentMoniker": "SharaX.cs",
+              "ToolTip": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\SharaX.cs",
+              "RelativeToolTip": "SharaX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:35:31.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dilation.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\Dilation.cs",
+              "RelativeDocumentMoniker": "Dilation.cs",
+              "ToolTip": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\Dilation.cs",
+              "RelativeToolTip": "Dilation.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:39:28.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlassFilter.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\GlassFilter.cs",
+              "RelativeDocumentMoniker": "GlassFilter.cs",
+              "ToolTip": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\GlassFilter.cs",
+              "RelativeToolTip": "GlassFilter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:33:24.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Opening.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\Opening.cs",
+              "RelativeDocumentMoniker": "Opening.cs",
+              "ToolTip": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\Opening.cs",
+              "RelativeToolTip": "Opening.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:26:31.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MatrixFilter.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\MatrixFilter.cs",
+              "RelativeDocumentMoniker": "MatrixFilter.cs",
+              "ToolTip": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\MatrixFilter.cs",
+              "RelativeToolTip": "MatrixFilter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:22:01.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACkBAAAAAAAAAAAYwGIBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:59:56.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gradient.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\Gradient.cs",
+              "RelativeDocumentMoniker": "Gradient.cs",
+              "ToolTip": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\Gradient.cs",
+              "RelativeToolTip": "Gradient.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:53:21.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\varva\\Desktop\\\u0443\u0447\u0451\u0431\u0430((\\\u0440\u0430\u0431\u043E\u0442\u044B \u0432\u0441\u044F\u043A\u0438\u0435\\\u043A\u043E\u043C\u043F \u0433\u0440\u0430\u0444\\FiltersLab\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:48:45.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

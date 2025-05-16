@@ -1,0 +1,10 @@
+C:\Users\varva\Desktop\учёба((\работы всякие\комп граф\FiltersLab\bin\Debug\FiltersLab.exe.config
+C:\Users\varva\Desktop\учёба((\работы всякие\комп граф\FiltersLab\bin\Debug\FiltersLab.exe
+C:\Users\varva\Desktop\учёба((\работы всякие\комп граф\FiltersLab\bin\Debug\FiltersLab.pdb
+C:\Users\varva\Desktop\учёба((\работы всякие\комп граф\FiltersLab\obj\Debug\FiltersLab.csproj.AssemblyReference.cache
+C:\Users\varva\Desktop\учёба((\работы всякие\комп граф\FiltersLab\obj\Debug\FiltersLab.Form1.resources
+C:\Users\varva\Desktop\учёба((\работы всякие\комп граф\FiltersLab\obj\Debug\FiltersLab.Properties.Resources.resources
+C:\Users\varva\Desktop\учёба((\работы всякие\комп граф\FiltersLab\obj\Debug\FiltersLab.csproj.GenerateResource.cache
+C:\Users\varva\Desktop\учёба((\работы всякие\комп граф\FiltersLab\obj\Debug\FiltersLab.csproj.CoreCompileInputs.cache
+C:\Users\varva\Desktop\учёба((\работы всякие\комп граф\FiltersLab\obj\Debug\FiltersLab.exe
+C:\Users\varva\Desktop\учёба((\работы всякие\комп граф\FiltersLab\obj\Debug\FiltersLab.pdb
